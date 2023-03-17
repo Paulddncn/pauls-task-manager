@@ -1,2 +1,3 @@
 # pauls-task-manager
-A CLI task manager application
+
+This is a CLI task manager application.
